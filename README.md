@@ -4,7 +4,7 @@
 
 > Set up a GitHub repository with correct tools
 
-![screenshot](./app_screenshot.png)
+![screenshot](./img.png)
 
 In this exercise, you will set up a "Hello world" repository.
 
@@ -44,9 +44,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/Mhdez221993)
-- Twitter: [@twitterhandle](https://twitter.com/MoisesH42060050)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/moises-hernandez-9bbb17145/)
+- GitHub: [@githubhandle](https://github.com/Whoistolu)
+- Twitter: [@twitterhandle](https://twitter.com/Littletolu)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/toluwase-ajise-9b40411b2/)
 
 ## 🤝 Contributing
 
