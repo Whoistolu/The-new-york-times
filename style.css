@@ -685,6 +685,7 @@ figure figcaption {
   vertical-align: middle;
 }
 
+.spin1 .spin2 ul,
 .run5 .run7 ul:nth-child(2),
 .all-links .subscribe ul:nth-child(3) {
   font-size: 11px;
@@ -692,13 +693,16 @@ figure figcaption {
   line-height: 2.1;
 }
 
+.spin1 .spin2 ul > li,
 .run5 .run7 ul:first-child > li {
   font-size: 16px;
   font-weight: 700;
+  padding: 0 0.325rem;
 }
 
 .run5 .run7 ul:nth-child(3) {
   border-top: 1px solid rgb(226, 226, 226);
+  margin-bottom: 1rem;
 }
 
 nav.spin1 {
@@ -708,30 +712,18 @@ nav.spin1 {
   text-align: center;
 }
 
-.spin1 .spni2,
-.spin1 .spin2 ul,
- {
+.spin1 .spni2 {
   display: inline-block;
 }
 
-.spin1 .spin2 ul {
-  margin-bottom: 1rem;
-}
-
-.spin1 .spin2 ul > li {
-  padding: 0 0.325rem;
-}
-
+.run6 a:hover,
+.run7 a:hover,
+.spin2 a:hover,
 .spin1 .spin2 ul > li > a {
   padding: 0.5625rem 0;
   font-family: 'Libre Franklin', helvetica, arial, sans-serif;
   font-size: 11px;
   font-weight: 300;
   color: #666;
-}
-
-.run6 a:hover,
-.run7 a:hover,
-.spin2 a:hover {
   text-decoration: underline;
 }
